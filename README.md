@@ -16,6 +16,7 @@ Problem Statement
 The problem is to perform a comprehensive analysis of the doctor visits dataset to understand patient demographics, illness trends, and the impact of various factors on healthcare utilization. The goal is to identify insights that can help improve healthcare services and public health decisions.
 
 ##Agenda
+
 Introduction to the dataset and its attributes.
 Exploratory Data Analysis (EDA) to understand data distribution, missing values, and correlations.
 Analyzing the relationship between illness, reduced activity, and health.

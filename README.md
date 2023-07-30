@@ -27,7 +27,8 @@ Identifying patterns between age, illness, and overall health.
 End Users
 The end users of this analysis are healthcare providers, policymakers, and researchers. Healthcare providers can utilize the insights to better understand patient demographics and their health needs. Policymakers can make data-driven decisions to enhance public health services, and researchers can leverage the findings to conduct further studies on healthcare trends and patterns.
 
-Solution and Value Proposition
+##Solution and Value Proposition
+
 The solution is to perform a detailed analysis of the dataset, leveraging Python's capabilities for data manipulation and visualization. By uncovering meaningful insights, the project adds value in the following ways:
 
 Improved understanding of patient behavior and healthcare utilization patterns.
@@ -37,10 +38,12 @@ Enhanced research opportunities for academia to explore health trends and correl
 Customization and Uniqueness
 The project showcases custom visualizations tailored to the dataset and end users' interests. Additionally, personalized interpretations and insights make the analysis unique and relevant for the healthcare domain.
 
-Modelling
+##Modelling
+
 The project focuses on descriptive analysis, exploratory data analysis, and statistical summaries. It does not involve complex predictive modelling but aims to extract valuable insights from the dataset.
 
-Results
+##Results
+
 The analysis results in various important insights, including:
 
 Distribution of age, income, and health scores in the dataset.
@@ -56,13 +59,13 @@ The dataset used for this analysis is available in the "DoctorVisits - DA.csv" f
 Installation
 To run the analysis code, you need to have Python and the following libraries installed:
 
-pandas
-numpy
-matplotlib
-seaborn
+#pandas
+#numpy
+#matplotlib
+#E#seaborn
 You can install the required libraries using the following command:
 
-pip install pandas numpy matplotlib seaborn
+##pip install pandas numpy matplotlib seaborn##
 
 Usage
 Clone this repository to your local machine.
